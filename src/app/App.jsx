@@ -2,6 +2,7 @@ import React from "react";
 
 // Style
 import { Row, Col } from 'antd';
+import './App.css';
 
 // Containers
 import { Navigation } from "./containers/Navigation";
