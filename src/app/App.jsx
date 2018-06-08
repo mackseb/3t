@@ -15,7 +15,7 @@ export default  class App extends React.Component {
 
             <div>
                 <Row >
-                    <Col span={4}></Col>
+                    <Col span={4}>Hello World</Col>
                     <Col span={14}><Navigation /></Col>
                     <Col span={6}></Col>
                 </Row>
