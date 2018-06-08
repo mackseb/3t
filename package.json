@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://mackseb.github.io/3t/",
   "dependencies": {
+    "antd": "^3.6.1",
     "gh-pages": "^1.2.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
